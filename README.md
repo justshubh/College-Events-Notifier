@@ -3,15 +3,16 @@ College Events Notifier
 
 About the project:
 ------------------
-A mobile application which enables the alumni’s of Jamia Hamdard to view all the events which are organized both on campus and off campus.
+College Events Notifier Android app made with the view of an unified app that reduces the need to manually inform everyone about the events and rather make use of tech so that everyone can get to know about the upcoming events at same time.
 
-Registered users of application can view and apply to various events which are listed in the application, can participate and follow up further once the event is over.
+Knowledges Used- Android, JSON, PHP, JavaScript, XML,payment Integration.
 
-Guest users can view minimal event details, but cannot act further, e.g participate or leave comments on various events.
-
-Users can register to application by providing minimal details – Name, email address and password.
-
-Once registered, they can browse through various events listed, and can apply to events further, or can socialize with the already registered members of events by leaving their comments for an event.
+Features----------
+- User can either register or use the app as guest.
+-Can Register for the events.
+-Pay if Required
+-Share The events and invite friends by tagging them.
+-Three levels of authentication.
 
 Administrators have rights to add/delete/modify events and moderate any comments which are left by users of the application.
 
